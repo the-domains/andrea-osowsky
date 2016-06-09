@@ -1,0 +1,28 @@
+name: Andrea Osowsky
+favicon: null
+layout_spectrum: 0.45612458558753133
+typography_spectrum: 0.022770286072045565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5985132872592658
+  lightness: 0.15494316280819476
+  saturation: 0.6921912224497646
+  rhythmicContrast: 0.12823109491728246
+purpose: []
